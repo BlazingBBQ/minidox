@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name canadian_parts)(type Legacy)(uri /Users/simon/workspace/kicad_libraries/canadian_parts.lib)(options "")(descr ""))
+  (lib (name keyboard_parts)(type Legacy)(uri /Users/simon/workspace/kicad_libraries/keyboard_parts.lib)(options "")(descr ""))
+  (lib (name mkl27z256vfm4)(type Legacy)(uri /Users/simon/workspace/kicad_libraries/mkl27z256vfm4.lib)(options "")(descr ""))
+  (lib (name ProMicro)(type Legacy)(uri /Users/simon/workspace/kicad_libraries/ProMicro.lib)(options "")(descr ""))
+)
